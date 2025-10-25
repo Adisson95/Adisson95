@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Привет+👋+Я+Рамзан;Full-Stack+Developer;React+❤️+Node.js;Добро+пожаловать+в+мой+GitHub!" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Привет+👋+Я+Рамзан;Backend+Developer;React+❤️+Node.js;Добро+пожаловать+в+мой+GitHub!" alt="Typing Animation" />
 
 
 <br>
