@@ -10,7 +10,7 @@
 
 ## 🚀 Мой стек технологий
 
-<div align="center">
+<div align="left">
 
 ### **💻 Frontend**
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
