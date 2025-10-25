@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Привет+👋+Я+Рамзан;Backend+Developer;React+❤️+Node.js;Добро+пожаловать+в+мой+GitHub!" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Привет+Я+Рамзан;Backend+Developer;React+❤️+Node.js;Добро+пожаловать+в+мой+GitHub!" alt="Typing Animation" />
 
 
 <br>
@@ -8,7 +8,7 @@
  
 </div>
 
-## 🚀 Мой стек технологий
+##  Мой стек технологий
 
 <div align="left">
 
@@ -18,14 +18,14 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
-### **🔧 Backend & More**
+### ** Backend & More**
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </div>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 </div>
 
-## 🌟 Контакты
+##  Контакты
 
 <div align="center">
 
